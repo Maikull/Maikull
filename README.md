@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maikull&label=Profile%20views&color=0e75b6&style=flat" alt="maikull" /> </p>
 
-- 🔭 I’m currently working on [PolarClient](https://github.com/Maikull/PolarClient)
+- 🔭 I’m currently working on Nothing
 
 
 <h3 align="left">Languages and Tools:</h3>
